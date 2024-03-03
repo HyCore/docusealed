@@ -64,11 +64,6 @@
           Star on Github
         </span>
       </a>
-      <a
-        v-if="isDemo"
-        href="https://docuseal.co/sign_up"
-        class="white-button flex items-center space-x-1 w-full"
-      >
         <IconLogin />
         <span>
           {{ t('create_a_free_account') }}
