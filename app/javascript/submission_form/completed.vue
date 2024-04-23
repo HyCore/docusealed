@@ -64,10 +64,10 @@
           Star on Github
         </span>
       </a>
-        <IconLogin />
-        <span>
-          {{ t('create_a_free_account') }}
-        </span>
+      <IconLogin />
+      <span>
+        {{ t('create_a_free_account') }}
+      </span>
       </a>
     </div>
     <div

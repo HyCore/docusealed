@@ -94,7 +94,6 @@
         v-else-if="type == 'phone' && (fieldTypes.length === 0 || fieldTypes.includes(type))"
         class="tooltip tooltip-bottom flex"
         :class="{'tooltip-bottom-end': withPayment, 'tooltip-bottom': !withPayment }"
-        
       >
         <a
           href="https://www.docuseal.co/pricing"
